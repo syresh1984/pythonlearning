@@ -1,2 +1,2 @@
 # pythonlearning
-learning pythn
+Python Fundamentals
